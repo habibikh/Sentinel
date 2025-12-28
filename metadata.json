@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Security Awareness Platform",
+  "description": "A professional security training and phishing simulation dashboard for small agencies to train employees and monitor security awareness. Features real-time educational content generation via Gemini.",
+  "requestFramePermissions": []
+}
